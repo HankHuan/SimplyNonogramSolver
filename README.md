@@ -10,4 +10,4 @@ I.-Chen Wu, Member, IEEE, Der-Johng Sun, Lung-Ping Chen, Kan-Yueh Chen, Ching-Hu
 The input question format is same like TCGA Nonogram tournament Qusetions (taai2015-question.txt).
 The output solved answer formate is same like TCGA Nonogram tournament Answer(taai2015-solution.txt).
 CH program will solve the question file which is selectd by user.
-CH program output solved answer in file named "output.txt" .
+CH program output solved answer in a file named "output.txt" .
