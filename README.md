@@ -1,5 +1,5 @@
 # CH
-CH is a Nonogram solver impelment by CHANH, HUAN. 
+CH is a Nonogram solver impelment by CHANG, HUAN. 
 This just a very simply Nonogram Solver,have not been optimization.
 Can solve 25x25 size of Nonogram questions.
 
