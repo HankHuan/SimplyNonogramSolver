@@ -1193,6 +1193,7 @@ int main(void){
 				thisClk = clock();
 				initAnswer();
 				aS = initAnswerS(aS);
+				goableBacktractingTimes=0;
 				backtracking(aS);
 				//initAnswer();
 				//propagation(2);
